@@ -21,6 +21,18 @@ Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type 
     - tuple ( une variante des tableaux, à la différence prêt qu'il est immuable.)
     - dict ( une autre variable qui combine l'avantage que les éléments du tableau sont récupérables grâce à un nom arbitraire)
     - Ces 3 derniers types seront davantages détaillés dans leur section dédiée.
+   
+ ### ⚠️ ***Les operateurs en python***
+   - Ils sont tous exactement les mêmes qu'en C++ à la différence prêt que l'opérateur ++ ( pour incrémenter une variable ) n'existe pas. Vous devrez faire "maVariable += 1".
+   - ** sert d'opérateur pour marquer un exposant <br>
+```
+a : int = 5
+b : int = a**2
+
+print(b) # Normalement vous aurez 25 comme résultat.
+
+```
+   
 
 ### Comment Python gère les bloques de code contrairement au C++ :
 En C++, vous savez à quel point les accolades sont ***hyper*** importantes pour définir ce qu'est un bloque de code.<br>Pour une fonction quelconque, celà ressemblera à ça : 
