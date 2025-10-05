@@ -1,4 +1,7 @@
-![alt text](https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png](https://brandeps.com/logo-download/P/Python-logo-vector-01.svg)
+<p align="center">
+  <img src="./PythonLogo.jpg" alt="Logo Python" width="500">
+</p>
+
 
 # 🐍 Introduction à Python pour les étudiants en Sciences Physiques
 
@@ -11,6 +14,8 @@ ce qui vous sera grandement utile ici !
 ## 🧩 Objectifs du tutoriel
 
 Ce guide abordera progressivement les points suivants :
+### 0. Installation
+- Comment installer Python 
 
 ### 1. Variables
 - Les différents **types de base** en Python
