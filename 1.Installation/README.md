@@ -27,3 +27,6 @@ Normalement ( sur windows en tout cas ), vous devriez avoir les 2 fenêtres suiv
    python --version # Si vous êtes sur Mac OS ou Linux
 
    python.exe --version # Si vous êtes sur Windows
+
+
+6. Installation de Visual Code et comment bien le paramétrer.
