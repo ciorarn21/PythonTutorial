@@ -1,8 +1,8 @@
 # 🧠 Rappel de la déclaration des variables en C++ et comparaison avec Python
 
-Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type NomDeLaVariable = SaValeur;`,<br> en Python il ne suffit que de taper `NomDeLaVariable = SaValeur`
+⚠️ Pour tout ce qui va suivre, un fichier variable.py sera à votre disposition afin de tester tout ce qui va suivre dans cette section.
 
-## 0. Un fichier variable.py est à votre disposition si vous souhaitez tester tout ce qui va suivre.
+Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type NomDeLaVariable = SaValeur;`,<br> en Python il ne suffit que de taper `NomDeLaVariable = SaValeur`
 
 ## 1. Exemple concret :
 ```
@@ -16,6 +16,7 @@ Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type 
     - int ( pour les entiers positifs tout comme négatifs
     - float ( pour les nombres à virgule flottantes, à la nuance prêt que là où C++ fait la différence entre les float et les double, ce n'est pas le cas ici. )
     - str ( pour les string ).
+    - None ( l'équivalent en quelque sorte de void en C++ )
     - list ( pour les tableaux - équivalent des std::vector<type> en C++.)
     - tuple ( une variante des tableaux, à la différence prêt qu'il est immuable.)
     - dict ( une autre variable qui combine l'avantage que les éléments du tableau sont récupérables grâce à un nom arbitraire)
