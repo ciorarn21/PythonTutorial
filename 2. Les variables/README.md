@@ -80,6 +80,11 @@ Un exemple :
 maPhrase : str = "Où sont les dias de Bastin ?"
 print(maPhrase)
 ```
+⚠️ Remarque sur la fonction print(). De base, elle fait d'elle-même le saut de ligne lors du prochain print(). <br>
+Si vous ne voulez pas que celà arrive, alors faites ainsi : 
+```
+print("Quelque chose", end="") # De base, la fonction rajoute automatiquement le \n pour un saut de ligne.
+```
 
 ## Récupérer la saisi clavier d'un utilisateur, tout simplement grâce à la fonction "input()". <br> Un exemple :
 ```
