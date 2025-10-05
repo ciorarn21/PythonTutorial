@@ -16,7 +16,7 @@ Ce guide explique comment installer Python sur votre ordinateur.
 Normalement ( sur windows en tout cas ), vous devriez avoir les 2 fenêtres suivantes lors de l'installation.
 
 <p align="center">
-  <img src="./install0.jpg" alt="Window0" width="200">
+  <img src="./Install0.jpg" alt="Window0" width="200">
   <img src="./installA.jpg" alt="WindowA" width="200">
 </p>
 
@@ -24,4 +24,6 @@ Normalement ( sur windows en tout cas ), vous devriez avoir les 2 fenêtres suiv
 
 5. Vérifiez l’installation en ouvrant un terminal ou l’invite de commandes et en tapant :  
    ```bash
-   python --version
+   python --version # Si vous êtes sur Mac OS ou Linux
+
+   python.exe --version # Si vous êtes sur Windows
