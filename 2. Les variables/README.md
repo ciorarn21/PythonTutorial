@@ -44,7 +44,7 @@ void fonction(){
 ```
 
 Cela ne posera aucun problème si vous lui définissez votre fonction de la sorte : 
-``` 
+``` cpp
 void fonction(){
               typeA variableA = ....;
     typeB variableB = ....;
