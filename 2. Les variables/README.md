@@ -12,7 +12,7 @@ Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type 
 ### ⚠️ ***Remarque*** :
  0. Première grosse differenfe avec le C++, il n'y a pas de fonctions main() à proprement parler, n'importe quel fichier peut s'exécuter sans aucun soucis.
  1. En python, les ; ne sont pas nécéssaires contrairement en C++.
- 2. Le typage de la variable non plus n'est pas nécéssaire ( mais bien que je vous invite à le faire pour plus de clarter dans votre code, nous verrons ceci par la suite.
+ 2. Le typage de la variable non plus n'est pas nécéssaire ( mais bien que je vous invite à le faire pour plus de clarter dans votre code, nous verrons ceci par la suite.)
  3. En Python, les types de de base sont les suivantes :
     - int ( pour les entiers positifs tout comme négatifs
     - float ( pour les nombres à virgule flottantes, à la nuance prêt que là où C++ fait la différence entre les float et les double, ce n'est pas le cas ici. )
