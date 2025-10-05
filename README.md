@@ -17,22 +17,25 @@ Ce guide abordera progressivement les points suivants :
 ### 0. Installation
 - Comment installer Python 
 
-### 1. Variables
+### 1. Variables ainsi que les fonctions de base
 - Les différents **types de base** en Python
-- Comment prendre un input de l'utilisateur
+- Comment prendre un input de l'utilisateur ( les équivalents de cout "<< "Ta mère "" << endl"; et "cin << "Ton chien << endl;")
 - Les **différences majeures avec le C++**
 
-### 2. Listes
-- Comment les appréhender  
-- Comment **itérer** à travers leur contenu  
-- Les **petites astuces** que le C++ ne possède pas
-
+  
 ### 3. Clauses conditionnelles
 - Les structures `if`, `else`, et `elif`
 
-### 4. Boucles
+### 2. Boucles
 - Les boucles `for`, `while`, et la particularité du `while` en Python  
 - Les différences de comportement par rapport au C++
+
+
+
+### 4. Listes
+- Comment les appréhender  
+- Comment **itérer** à travers leur contenu  
+- Les **petites astuces** que le C++ ne possède pas
 
 ### 5. Fonctions
 - Définir une fonction  
