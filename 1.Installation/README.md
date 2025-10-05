@@ -38,6 +38,9 @@ Normalement ( sur windows en tout cas ), vous devriez avoir les 2 fenêtres suiv
 - VS Code ne supporte pas directement le python, il faudra lui installer quelques extensions pour le bon déroulement de la suite.
 - Pour ce faire, lancez VS Code.
 - Une fois le programme lancé, vous devriez voir sur la barre latérale gauche cette icône :<p align="center">
-  <img src="./Install0.jpg" alt="Window0" width="200">
-  <img src="./installA.jpg" alt="WindowA" width="200">
-</p>
+  <img src="./extensionMenu.png" alt="Ext0" width="200">
+  <img src="./pythonExtension.png" alt="Ext1" width="200">
+</p> Rechercher "Python" dans la barre de recherche et assurez-vous que toutes ces extensions soient bien installées ( normalement vous devriez voir un bouton "install" à coté de chacune des extensions.
+
+### 7. 👏👏👏 Vous êtes enfin prêt pour la suite ! 
+ 
