@@ -62,7 +62,7 @@ Ce guide abordera progressivement les points suivants :
 
 ### 11. Pour les plus curieux : **Pygame**, **OpenCV2** et **librosa**
 - Découverte de pygame permettant de réaliser de **jolis dessins et animations**
-- OpenCV2 qui gère tout ce qui est traitement d'image ( peu carrément remplacer Photoshop dans la plupart des cas)
+- OpenCV2 qui gère tout ce qui est traitement d'image ( peut carrément remplacer Photoshop dans la plupart des cas)
 - Librosa qui est une librairie qui permet de facilité tout ce qui relate au traitement du signal.
 
 ---
