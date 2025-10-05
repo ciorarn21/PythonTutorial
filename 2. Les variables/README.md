@@ -1,6 +1,6 @@
 # 🧠 Rappel de la déclaration des variables en C++ et comparaison avec Python
 
-Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type NomDeLaVariable = SaValeur`,<br> en Python il ne suffit que de taper `NomDeLaVariable = SaValeur`
+Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type NomDeLaVariable = SaValeur;`,<br> en Python il ne suffit que de taper `NomDeLaVariable = SaValeur`
 
 
 ## 1. Exemple concret :
