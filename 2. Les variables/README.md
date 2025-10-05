@@ -139,7 +139,7 @@ print(phrase) # Ca fonctionne exactement de la même manière.
 ```python 
 
 a : int = 5
-b : ing = a 
+b : int = a 
 
 a += 5
 
