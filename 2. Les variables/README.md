@@ -88,5 +88,6 @@ saisi : str = input("Où sont les dias de Bastin ?") # La fonction prend un stri
 print("Les dias se trouvent : ", saisi)
 ```
 
-# ⚠️ Remarque : la fonction input rend un string. Donc si vous vous attendez à ce que l'utilisateur rentre un nombre dont vous souhaitez lui appliquer des opérations par la suite, n'oubliez pas de le caster. Le casting des variables se fait de la même manière qu'en C++ donc, voilà ... Flemme de vous re-expliquez ce que vous savez déjà.
+# ⚠️ Remarque : 
+la fonction input rend un string. Donc si vous vous attendez à ce que l'utilisateur rentre un nombre dont vous souhaitez lui appliquer des opérations par la suite, n'oubliez pas de le caster. Le casting des variables se fait de la même manière qu'en C++ donc, voilà ... Flemme de vous re-expliquez ce que vous savez déjà.
   
