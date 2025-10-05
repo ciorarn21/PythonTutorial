@@ -143,5 +143,5 @@ b : ing = a
 
 a += 5
 
-print ( a == b ) # Vous verrez que la console vous renverez un True.
+print ( a == b ) # Vous verrez que la console vous renverra un True.
 ```
