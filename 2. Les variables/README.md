@@ -72,6 +72,21 @@ mot : str = "MaPhrase"
 
 ### ⚠️ Ne vous en faites pas pour "def", etc... Tout ceci sera abordé dans la section des fonctions.
 
+# 📺 ✒️ Comment afficher quelque chose dans la console et récupérer une entrée du clavier ? 
 
+## L'affichage sur la console en python se fait tout simplement à l'aide de la fonction "print("Ta mère")":<br>
+Un exemple : 
+```
+maPhrase : str = "Où sont les dias de Bastin ?"
+print(maPhrase)
+```
 
+## Récupérer la saisi clavier d'un utilisateur, tout simplement grâce à la fonction "input()". <br> Un exemple :
+```
+saisi : str = input("Où sont les dias de Bastin ?") # La fonction prend un string en argument qui sera affiché sur la console
+
+print("Les dias se trouvent : ", saisi)
+```
+
+# ⚠️ Remarque : la fonction input rend un string. Donc si vous vous attendez à ce que l'utilisateur rentre un nombre dont vous souhaitez lui appliquer des opérations par la suite, n'oubliez pas de le caster. Le casting des variables se fait de la même manière qu'en C++ donc, voilà ... Flemme de vous re-expliquez ce que vous savez déjà.
   
