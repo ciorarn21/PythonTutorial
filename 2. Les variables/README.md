@@ -132,3 +132,16 @@ phrase : str = f"La valeur est {variable}"
 print(phrase) # Ca fonctionne exactement de la même manière.
 
 ```
+## ⚠️ La gestion des variables en python est differente par rapport au C++. 
+ Quand vous assignez une valeur à une variable issue d'une autre variable, C++ en fera une copie.<br>
+ Ce n'est pas le cas en python, qui lui gère toutes variables comme une référence. Cela signifie :
+
+```python 
+
+a : int = 5
+b : ing = a 
+
+a += 5
+
+print ( a == b ) # Vous verrez que la console vous renverez un True.
+```
