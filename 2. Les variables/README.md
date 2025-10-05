@@ -97,4 +97,24 @@ print("Les dias se trouvent : ", saisi)
 
 # ⚠️ Remarque : 
 la fonction input rend un string. Donc si vous vous attendez à ce que l'utilisateur rentre un nombre dont vous souhaitez lui appliquer des opérations par la suite, n'oubliez pas de le caster. Le casting des variables se fait de la même manière qu'en C++ donc, voilà ... Flemme de vous re-expliquer ce que vous savez déjà.
-  
+
+
+## Astuce :
+L'implémentation d'une variable dans un print est bien plus simple qu'en C++, lors d'attribution du string à votre variable, il suffit juste de rajouter un f avant les "". <br>
+
+
+```
+variable : int = 4520
+print("La valeur est :", variable)
+
+# Vous pouvez très bien faire ceci :
+
+print(f"La valeur est {variable}") # Ici les accolades servent à indiquer la variable à afficher
+
+# Mais la manière suivante est tout à fait juste aussi :
+
+phrase : str = f"La valeur est {variable}"
+
+print(phrase) # Ca fonctionne exactement de la même manière.
+
+```
