@@ -23,10 +23,10 @@ Ce guide abordera progressivement les points suivants :
 - Les **différences majeures avec le C++**
 
   
-### 3. Clauses conditionnelles
+### 2. Clauses conditionnelles
 - Les structures `if`, `else`, et `elif`
 
-### 2. Boucles
+### 3. Boucles
 - Les boucles `for`, `while`, et la particularité du `while` en Python  
 - Les différences de comportement par rapport au C++
 
