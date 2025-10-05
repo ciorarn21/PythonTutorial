@@ -31,8 +31,8 @@ Normalement ( sur windows en tout cas ), vous devriez avoir les 2 fenêtres suiv
 ```
 
 ### 6. Installation de Visual Code et comment bien le paramétrer.
--   Rendez-vous sur ce lien : [https://code.visualstudio.com](https://code.visualstudio.com)
-- Télécharger le et installer le comme n'importe quelle programme classique.
+- Rendez-vous sur ce lien : [https://code.visualstudio.com](https://code.visualstudio.com)
+- Téléchargez-le et installez-le comme n’importe quel programme classique.
 
 ### 7. Post installation de VS Code
 - VS Code ne supporte pas directement le python, il faudra lui installer quelques extensions pour le bon déroulement de la suite.
