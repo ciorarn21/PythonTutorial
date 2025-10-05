@@ -2,6 +2,7 @@
 
 Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type NomDeLaVariable = SaValeur;`,<br> en Python il ne suffit que de taper `NomDeLaVariable = SaValeur`
 
+## 0. Un fichier variable.py est à votre disposition si vous souhaitez tester tout ce qui va suivre.
 
 ## 1. Exemple concret :
 ```
