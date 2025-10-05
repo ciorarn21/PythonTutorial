@@ -15,7 +15,7 @@ Comme vous devriez le savoir, une variable en C++ se déclare de la sorte `Type 
     - int ( pour les entiers positifs tout comme négatifs
     - float ( pour les nombres à virgule flottantes, à la nuance prêt que là où C++ fait la différence entre les float et les double, ce n'est pas le cas ici. )
     - str ( pour les string ).
-    - list ( pour les tableaux - équivalent des std::vector<type> en C++.
+    - list ( pour les tableaux - équivalent des std::vector<type> en C++.)
     - tuple ( une variante des tableaux, à la différence prêt qu'il est immuable.)
     - dict ( une autre variable qui combine l'avantage que les éléments du tableau sont récupérables grâce à un nom arbitraire)
     - Ces 3 derniers types seront davantages détaillés dans leur section dédiée.
