@@ -16,8 +16,8 @@ def nom_de_fonction(param1 : int , param2 : int):
 
 En C++ cela aurait donné : <br>
 
-    ```cpp
-      typeDeRetour nom_de_fonction( int param1, int param2){
+```cpp
+    typeDeRetour nom_de_fonction( int param1, int param2){
           return param1 + param2
       }
-    ```
+ ```
