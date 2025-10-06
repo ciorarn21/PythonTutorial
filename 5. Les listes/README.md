@@ -68,6 +68,10 @@ print(len(maListe)) # Renvoie la taille du tableau.
     maListe : list[type] = [.....]
     maSelection : list[type] = maListe[i:j,0] # Le 0 ici renvoie au premier tableau dans le cas où vous auriez des tableaux encapsulés ( comme dans le cas d'une matrice par exemple )
     # A savoir que maListe[:,0] donc sans les i,j parcours l'ensemble des éléments du tableau.
+
+    # D'autant plus que les indices négatifs ici sont acceptés ! Ils renvoient juste les élements mais en sens inverse.
+
+    print(maListe[-1] == maListe[len(maListe) -]) # Normalement vous devriez avoir un True
     
   
     ```
