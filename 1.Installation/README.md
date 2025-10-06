@@ -18,8 +18,8 @@ Ce guide explique comment installer Python sur votre ordinateur.
 Normalement (sur Windows), vous devriez voir les deux fenêtres suivantes lors de l'installation :
 
 <p align="center">
-  <img src="./PythonInstaller1.jpg" alt="Fenêtre d'installation 1" width="300">
-  <img src="./PythonInstaller2.jpg" alt="Fenêtre d'installation 2" width="300">
+  <img src="./Install0.jpg" alt="Fenêtre d'installation 1" width="300">
+  <img src="./InstallA.jpg" alt="Fenêtre d'installation 2" width="300">
 </p>
 
 ### 5. Vérifiez l’installation
@@ -29,3 +29,11 @@ Ouvrez un terminal ou l’invite de commandes et tapez :
 python --version      # Si vous êtes sur Mac OS ou Linux
 python.exe --version  # Si vous êtes sur Windows
 ```
+### 7. Post installation de VS Code -
+VS Code ne supporte pas directement le python, il faudra lui installer quelques extensions pour le bon déroulement de la suite. 
+  - Pour ce faire, lancez VS Code.
+  - Une fois le programme lancé, vous devriez voir sur la barre latérale gauche cette icône :<p align="center"> <img src="./extensionMenu.png" alt="Ext0" width="200"> <img src="./pythonExtension.png" alt="Ext1" width="200"> </p> Rechercher "Python" dans la barre de recherche et assurez-vous que toutes ces extensions soient bien installées ( normalement vous devriez voir un bouton "install" à coté de chacune des extensions.
+
+ 
+ 
+ ### 7. 👏👏👏 Vous êtes enfin prêt pour la suite !
