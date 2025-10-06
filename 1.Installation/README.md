@@ -19,7 +19,7 @@ Normalement (sur Windows), vous devriez voir les deux fenêtres suivantes lors d
 
 <p align="center">
   <img src="./Install0.jpg" alt="Fenêtre d'installation 1" width="300">
-  <img src="./InstallA.jpg" alt="Fenêtre d'installation 2" width="300">
+  <img src="./installA.jpg" alt="Fenêtre d'installation 2" width="300">
 </p>
 
 ### 5. Vérifiez l’installation
