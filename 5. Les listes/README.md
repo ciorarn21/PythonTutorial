@@ -71,7 +71,53 @@ print(len(maListe)) # Renvoie la taille du tableau.
 
     # D'autant plus que les indices négatifs ici sont acceptés ! Ils renvoient juste les élements mais en sens inverse.
 
-    print(maListe[-1] == maListe[len(maListe) -]) # Normalement vous devriez avoir un True
+    print(maListe[-1] == maListe[len(maListe) - 1]) # Normalement vous devriez avoir un True
     
   
     ```
+# Les tuples :
+ Ici on ne s'y attardera pas trop parce qu'il s'agit exactement de la même chose qu'un tableau ( avec les mêmes manipulations ) à la différence près que les éléments d'un tuple sont immuable.<br>
+ Une fois déclaré, il est impossible de réassigner une nouvelle valeur. Python vous renverra une erreur.
+
+# 📘 Les dictionnaires (`dict`) en Python
+
+Les **dictionnaires** sont l’une des structures de données les plus puissantes de Python.  
+Ils permettent d’associer une **clé** à une **valeur**, un peu comme une table de correspondance.  
+C’est l’équivalent d’un `std::map` en C++.
+
+---
+
+## 🧩 Définition et syntaxe de base
+
+Un dictionnaire se définit entre **accolades `{}`**, avec des paires `clé: valeur` :
+
+```python
+etudiant = {
+    "nom": "Dupont",
+    "age": 20,
+    "filiere": "Physique"
+}
+
+print(etudiant) # résultat {'nom': 'Dupont', 'age': 20, 'filiere': 'Physique'}
+
+# Pour accéder à l'un de ses élements :
+
+print(etudiant["nom"])  # -> Dupont
+
+# Rajouter une nouvelle clé avec une nouvelle valeur :
+
+etudiant["universite"] = "ULB"
+
+# Pour parcourir les clés d'un dictionnaire :
+for cle in etudiant.keys():
+    print(cle)
+
+#pour parcourir les éléments de chaque clés :
+
+for elem in etudiant.values():
+    print(elem)
+
+
+```
+
+
